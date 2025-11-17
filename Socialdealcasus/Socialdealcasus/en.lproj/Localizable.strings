@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  Socialdealcasus
+
+  Created by Dan Keerdijk on 17/11/2025.
+  
+*/
+
+//general
+"no_data" = "No data available.";
+"try_again" = "Try again";
+
+//deal
+"deal" = "Deal";
+"deal_load_error" = "Failed to load deals. Please try again later.";
+"deal_detail_loading" = "Loading details...";
+"description_load_error" = "Failed to load description.";
+
+//favorites
+"favorites" = "Favorites";
+"favorites_loading" = "Loading favorites...";
+"no_favorites" = "You don't have any favorites yet.";
+
+//settings
+"settings" = "Settings";
+"valuta" = "Currency";
+"currency_dollar" = "Dollar ($)";
+"currency_euro" = "Euro (€)";
